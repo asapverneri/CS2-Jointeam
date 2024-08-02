@@ -1,0 +1,6 @@
+{
+  "moved.ct": "{purple}[CS2Jointeam] {yellow}You have been moved to {0}!",
+  "moved.t": "{purple}[CS2Jointeam] {yellow}You have been moved to {0}!",
+  "moved.spec": "{purple}[CS2Jointeam] {yellow}You have been moved to {0}!",
+  "already.inteam": "{purple}[CS2Jointeam] {red}You already are in {0}!"
+} 
