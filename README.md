@@ -4,7 +4,6 @@ Useful plugin to switch teams fast by command and suits jailbreak servers for ex
 Tested on Windows, but should work on Linux aswell.
 
 ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/asapverneri/CS2-Jointeam?style=for-the-badge&label=Version)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/asapverneri/CS2-Jointeam/dev?style=for-the-badge)
 
 ---
 
